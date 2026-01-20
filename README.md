@@ -95,6 +95,7 @@ Manages the many-to-many relationship between courses and instructors.
 - One Instructor can be assigned to multiple Courses
 - Courses and Instructors have a many-to-many relationship via CourseInstructors
 
+## ![Entity Relationship Diagram-ERD](https://github.com/IsmailO-Portfolio/Students-Management-System-SMS-Database/blob/main/Student%20Management%20System%20ERD%20.jpeg)
 
 ## 🧪 Data Population
 
