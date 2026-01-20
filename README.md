@@ -114,6 +114,7 @@ The database was populated with realistic sample data to simulate real universit
 
 Structured SQL queries were written to generate academic and administrative insights.
 
+## [Data Definition Language Queries](https://github.com/IsmailO-Portfolio/Students-Management-System-SMS-Database/blob/main/DATA%20DEFINITION%20LANGUAGE.sql)
 
 ## 👥 Student and Enrollment Insights
 
